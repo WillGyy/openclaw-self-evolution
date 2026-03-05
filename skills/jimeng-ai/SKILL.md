@@ -24,6 +24,8 @@ export VOLCENGINE_ACCESS_KEY="your_access_key"
 export VOLCENGINE_SECRET_KEY="your_secret_key"  # Base64 encoded
 ```
 
+> 💡 凭证需要从火山引擎控制台获取
+
 ## 功能列表
 
 | 功能 | 模型标识 (req_key) | 说明 |
